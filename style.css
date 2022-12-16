@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(230, 230, 230);
+  font-size: 24px;
+}
+
+.header ,h1 {
+  text-align: center;
+  min-width: 300px;
+}
+
+h1 {
+  font-size: 36px;
+  min-width: 300px;
+}
+
+figure {
+  width: 90%;
+  border-radius: 20px;
+  background-color: white;
+ 
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  border-radius: 25px;
+  min-width: 300px;
+  margin: auto;
+}
+
+figure {
+  text-align: center;
+  display: box;
+  padding: 20px;
+  margin: 0 auto 50px auto;
+  min-width: 300px;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 18px;
+  min-width: 300px;
+}
+
+.description {
+  margin: 0 20%;
+  display: flex;
+  justify-content: center;
+  min-width: 300px;
+}
+
+ul > li {
+margin: 25px;
+min-width: 300px;
+}
+
+a {
+  color: black; 
+}
+
+a:hover {
+  color: white;
+  cursor: pointer;
+}
+
+footer > .quote {
+  display: inline-block;
+  margin: 0 65px;
+  font-style: italic;
+  font-size: 18px;
+  min-width: 300px;
+}
+
+footer > .invitation {
+  display: inline-block;
+  font-size: 18px;
+  float: right;
+}
