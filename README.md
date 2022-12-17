@@ -1,5 +1,5 @@
-# Portfolio-FreeCodeCamp-P2-Tribute-Page
-## My first student project:hatching_chick:
+# Portfolio-FreeCodeCamp-P2-Tribute_Page
+## My second student project:hatching_chick:
 ___
 Here I share with you my second little project from freeCodeCamp which I have made in sertification "Responsive Web Design":relieved: 
 I really hope you will love it:innocent:
